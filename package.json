@@ -9,6 +9,10 @@
   "author": "serverless.com",
   "license": "MIT",
   "dependencies": {
-    "serverless-google-cloudfunctions": "^1.1.0"
+    "@google-cloud/logging-winston": "^0.7.0",
+    "bluebird": "^3.5.1",
+    "node-fetch": "^1.7.3",
+    "serverless-google-cloudfunctions": "^1.1.0",
+    "winston": "^2.4.0"
   }
 }

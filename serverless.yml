@@ -3,7 +3,7 @@ service: testing
 provider:
   name: google
   runtime: nodejs
-  project: my-project
+  project: geirstestproject
   # the path to the credentials file needs to be absolute
   credentials: ~/.gcloud/keyfile.json
 
